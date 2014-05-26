@@ -51,7 +51,10 @@
 	{
 		</xsl:text>
 	</xsl:variable>
-</xsl:stylesheet><!--Copyright © 2008 Gjermund Gusland Thorsen
+</xsl:stylesheet><!--
+===============================================================
+
+Copyright © 2008 Gjermund Gusland Thorsen
 All rights deserved.
 
 Redistribution and use in any form, with or without modification,
