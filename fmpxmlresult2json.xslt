@@ -54,7 +54,7 @@
 </xsl:stylesheet><!--
 ========================================================================================
 
-Copyright © 2008 Gjermund Gusland Thorsen
+Copyright (c) 2008 Gjermund Gusland Thorsen, released under the MIT License.
 All rights deserved.
 
 This piece comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
