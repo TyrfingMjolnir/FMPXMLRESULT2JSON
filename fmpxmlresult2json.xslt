@@ -52,23 +52,12 @@
 		</xsl:text>
 	</xsl:variable>
 </xsl:stylesheet><!--
-===============================================================
+========================================================================================
 
 Copyright © 2008 Gjermund Gusland Thorsen
 All rights deserved.
 
-Redistribution and use in any form, with or without modification,
-are permitted provided that the following conditions:
+This piece comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 
-* Redistributions of source code must retain the above copyright
-  notice, this list of conditions and the following disclaimer.
-
-* Redistributions in any form must reproduce the above copyright
-  notice, this list of conditions and the following disclaimer in 
-  the documentation and/or other materials provided.
-
-This piece comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-
-===============================================================
+========================================================================================
 -->
