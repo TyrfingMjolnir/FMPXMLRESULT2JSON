@@ -11,7 +11,7 @@ For some reason I m not able to get this one to work: https://raw.githubusercont
 
 ========================================================================================
 
-Copyright © 2008 Gjermund Gusland Thorsen
+Copyright (c) 2008 Gjermund Gusland Thorsen, released under the MIT License.
 All rights deserved.
 
 This piece comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
