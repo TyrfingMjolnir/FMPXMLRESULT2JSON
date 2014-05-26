@@ -10,7 +10,7 @@ full product description.
 
 ========================================================================================
 
-For some reason I m not able to get this one to work:
+For some reason I m not able to get this one to work( as a stylesheet for FileMaker export, i e ):
 https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt
 for the stylesheet.
 
