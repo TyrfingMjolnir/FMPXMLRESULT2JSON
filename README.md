@@ -1,11 +1,16 @@
 FMPXMLRESULT2JSON
 =================
 
-As I see more and more people using AngularJS, I thought it was some people might benefit from me releasing this stylesheet from 2008, namely: fmpxmlresult2json.xslt
+As I see more and more people using AngularJS, I believe some people might benefit from
+releasing this stylesheet from 2008, namely: fmpxmlresult2json.xslt
 
-This simple "flat file"-export( only one level of tables, does not exceed the use of .csv/.tab files ) is excelent for newsfeeds and/or productlist, but falls short of a full product description.
+This simple "flat file"-export( only one level of tables, does not exceed the use of
+.csv/.tab files ) is excelent for newsfeeds and/or productlist, but falls short of a
+full product description.
 
-For some reason I m not able to get this one to work: https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt for the stylesheet.
+For some reason I m not able to get this one to work:
+https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt
+for the stylesheet.
 
 
 
