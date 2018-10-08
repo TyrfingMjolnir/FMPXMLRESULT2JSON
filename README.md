@@ -11,6 +11,7 @@ full product description.
 ========================================================================================
 
 ```
+curl -o data.fmpxmlresult.xml https://github.com/TyrfingMjolnir/FileMaker-Swift/blob/master/fmError.json
 curl https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt | xsltproc - data.fmpxmlresult.xml
 ```
 
