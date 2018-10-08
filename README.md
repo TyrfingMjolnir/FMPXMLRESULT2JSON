@@ -10,9 +10,9 @@ full product description.
 
 ========================================================================================
 
-For some reason I m not able to get this one to work( as a stylesheet for FileMaker export, i e ):
-https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt
-for the stylesheet.
+```
+curl https://raw.githubusercontent.com/TyrfingMjolnir/FMPXMLRESULT2JSON/master/fmpxmlresult2json.xslt | xsltproc - data.fmpxmlresult.xml
+```
 
 <img alt="[x] Format Using Layout will provoke the export to populate the LAYOUT-attribute" src="FormatUsingLayout.png" width="100%" max-width=1008>
 
